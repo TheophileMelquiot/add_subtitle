@@ -71,6 +71,6 @@ Audio_file_to_modify ="segment_001.mp4"
 
 if __name__ == "__main__":
    generate_subtitles(Audio_file_to_modify)  # Remplacez par votre fichier audio
-   add_the_subtitle("C:/Users/Theom/OneDrive/Bureau/project/sous titre","subtitles.srt",Audio_file_to_modify)  # Remplacez par votre fichier audio
+   add_the_subtitle("C:/Users/","subtitles.srt",Audio_file_to_modify)  # Remplacez par votre fichier audio
 
 
